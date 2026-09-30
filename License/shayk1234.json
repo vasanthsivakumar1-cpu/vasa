@@ -1,0 +1,24 @@
+{
+    "key": "shayk1234",
+    "expiry": "2026-12-31",
+    "status": true,
+    "authorized_signatures": [
+        "E545B00E31AF8FC008566DE0B87C0B17FC467A90AEED71B00755B98698AE58BC"
+    ],
+    "blocked_signatures": [
+        "1234567890ABCDEF1234567890ABCDEF12345678"
+    ],
+    "packages": {
+        "com.pubgm": { "expiry": "2026-12-30", "status": true},
+        "com.pubg": { "expiry": "2026-12-30", "status": true},
+          "com.shayk": { "expiry": "2026-12-30", "status": true},
+        "com.lund": { "expiry": "2026-12-30", "status": true},
+        "com.dark": { "expiry": "2026-12-30", "status": true},
+        "com.OverKillAdmin": { "expiry": "2026-12-30", "status": true},
+        "com.darkk": { "expiry": "2026-12-30", "status": true},
+        "com.overkill": { "expiry": "2026-12-30", "status": true},
+        "com.bgmi": {"expiry": "2026-12-30", "status": true},
+        "com.nox": {"expiry": "2026-12-30", "status": true},
+        "com.blocked.app": {"status": false}
+    }
+}
