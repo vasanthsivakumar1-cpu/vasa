@@ -1,4 +1,4 @@
 460
 https://appsecure.sbs/gServer/api/check.php
-https://hide.ai-keys.xyz/get
-sha256/pZDk29mxquwpwi2jaLaHa42S8L4rdzCbGllcIJGgo98=
+https://draco.authapi.xyz/server
+sha256//nRZ2BcwlqC09ZZOp5Jaal0NtD1EIW044KX/Bb0vygoA=
