@@ -1,4 +1,4 @@
 460
 https://appsecure.sbs/gServer/api/check.php
 https://draco.authapi.xyz/server
-sha256//nRZ2BcwlqC09ZZOp5Jaal0NtD1EIW044KX/Bb0vygoA=
+sha256//fzTWh/rDlZyYcPN/NLTgedNlg7huemC0WRnWixSzVa4=
